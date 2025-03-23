@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**EgleGriciute/EgleGriciute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00b2ae&center=true&vCenter=true&width=435&lines=QA+Tester;Breaking+things;Automation;Manual;QA+Engineer;)
 
-Here are some ideas to get you started:
+Welcome to my little corner of the internet. Grab a ☕ and take a scroll!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
+
+</div>
+
+## About Me:
+
+🐅 Currently testing the limits of **quality assurance** in the wild;  
+💡 Always learning & leveling up my **automation** game;  
+🎯 Pixel-perfect, bug-free UIs are my aesthetic;  
+💖 Hit me up with tech rants, QA memes, or life hacks!
+
+---
+
+## My Tech Stack:  
+🚀 **Languages:** JavaScript | TypeScript | Java  
+🛠 **Automation Arsenal:** Cypress | Selenium | Playwright  
+🕵️ **Debugging Ninja Mode:** Postman | Browser DevTools | axe DevTools  
+📦 **CI/CD Magic:** GitHub Actions | Jenkins  
+
+---
+<div align="center">
+
+## GitHub Stats:  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgleGriciute&layout=compact&theme=default&langs_count=5&card_width=500)
+
+---
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/egle-griciute/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:egllegriciute@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
