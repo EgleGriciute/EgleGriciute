@@ -24,9 +24,9 @@
 
 ## GitHub Stats:  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EgleGriciute&layout=compact&theme=default&langs_count=5&card_width=500)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
 
 ---
 
