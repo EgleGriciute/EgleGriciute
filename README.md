@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00b2ae&center=true&vCenter=true&width=435&lines=QA+Tester;Breaking+things;Automation;Manual;QA+Engineer;)
 
-Welcome to my little corner of the internet. Grab a ☕ and take a scroll!  
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
 
 </div>
