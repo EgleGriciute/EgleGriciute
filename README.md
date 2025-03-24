@@ -28,8 +28,6 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
-
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/egle-griciute/">
@@ -38,5 +36,7 @@
 <a href="mailto:egllegriciute@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
 
 </div>
