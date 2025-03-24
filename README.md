@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00b2ae&center=true&vCenter=true&width=435&lines=QA+Tester;Breaking+things;Automation;Manual;QA+Engineer;)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
-
 </div>
 
 ## About Me:
@@ -31,6 +29,8 @@
 ---
 
 ### Connect with me:
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
 
 <a href="https://www.linkedin.com/in/egle-griciute/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
