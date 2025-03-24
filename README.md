@@ -28,9 +28,9 @@
 
 ---
 
-### Connect with me:
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=EgleGriciute&color=blue&style=flat-square)
+
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/egle-griciute/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
